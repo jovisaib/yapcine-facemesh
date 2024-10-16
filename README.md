@@ -8,7 +8,7 @@ https://x.com/yacineMTB/status/1846308495768830087
 
 
 
-Run it with the following steps:
+# Run it with the following steps:
 - install dependencies
 - download the following models (you can find them googling) and put them in the `models` folder:
     - face_landmarker.task
