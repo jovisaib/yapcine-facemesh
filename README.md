@@ -4,11 +4,12 @@ Repository implementing a snippet of code @yacineMTB shared in the following twe
 
 https://x.com/yacineMTB/status/1846308495768830087
 
+All credits go to @yacineMTB.
 
 
 
 
-# Run it with the following steps:
+## Run it:
 - install dependencies
 - download the following models (you can find them googling) and put them in the `models` folder:
     - face_landmarker.task
