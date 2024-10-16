@@ -5,4 +5,12 @@ Repository implementing a snippet of code @yacineMTB shared in the following twe
 https://x.com/yacineMTB/status/1846308495768830087
 
 
-Run it by simply installing dependencies within an env, and then running `python main.py`.
+
+
+
+Run it with the following steps:
+- install dependencies
+- download the following models (you can find them googling) and put them in the `models` folder:
+    - face_landmarker.task
+    - hand_landmarker.task
+- run `main.py`.
