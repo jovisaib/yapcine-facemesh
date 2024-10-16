@@ -1,5 +1,7 @@
 # Yapcine Facemesh
 
+![image](./soyface.png)
+
 Repository implementing a snippet of code @yacineMTB shared in the following tweet:
 
 https://x.com/yacineMTB/status/1846308495768830087
