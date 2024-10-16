@@ -10,6 +10,7 @@ All credits go to @yacineMTB.
 
 
 ## Run it:
+- create a new virtual env
 - install dependencies
 - download the following models and put them in the `models` folder:
     - [face_landmarker.task](https://storage.googleapis.com/mediapipe-models/face_landmarker/face_landmarker/float16/1/face_landmarker.task)
