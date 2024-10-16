@@ -9,7 +9,7 @@ All credits go to @yacineMTB.
 
 
 
-## Run it:
+## Run it
 - create a new virtual env
 - install dependencies
 - download the following models and put them in the `models` folder:
