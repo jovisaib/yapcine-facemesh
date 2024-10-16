@@ -2,7 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+models/
+*.task
+landmark_data.json
 # C extensions
 *.so
 
